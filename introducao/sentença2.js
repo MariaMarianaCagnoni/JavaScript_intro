@@ -1,2 +1,2 @@
-temp = 19;
+temp = 3
 console.log(temp);

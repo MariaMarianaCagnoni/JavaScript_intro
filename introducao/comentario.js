@@ -5,6 +5,6 @@ aqui continua sendo um comentario
 pode ser quebrado em varias linhas */
 
 /*
- console.log("nao sera executado nada")
-
+*  console.log("nao sera executado nada")
+*
  */
