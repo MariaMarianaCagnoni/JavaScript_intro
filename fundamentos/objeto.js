@@ -8,12 +8,11 @@ prod1['desconto legal'] = 0.40; //é possivel geral chaves com espaço,pores evi
 const prod2 ={
     nome: 'camisa polo',
     preco: 37.9,
-    
-
-
-
-
 }
+
+//json(formato textual) é diferente de objetos(coleção chave/valor)
+
+
 
 
 
