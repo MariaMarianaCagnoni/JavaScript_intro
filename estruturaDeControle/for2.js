@@ -14,7 +14,7 @@ const pessoa ={
     Cidade: 'Campinas'
 }
 
-console.log(pessoa)
+console.log(pessoa)                       //a estrura IN é mais utilizada em objetos
 
 for(let i in pessoa){
     console.log(pessoa[i])
